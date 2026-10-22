@@ -1,16 +1,32 @@
-## Hi there 👋
+# Olá! Eu sou a Sthefany, desenvolvedora Full Stack em formação 💻✨
 
-<!--
-**SthefanyTech/SthefanyTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+🎓 Estudante de Análise e Desenvolvimento de Sistemas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Em busca da minha primeira oportunidade na área de Tecnologia da Informação (TI).
+<br><br>
+
+⚙️ Tecnologias e conhecimentos
+
+- HTML e CSS
+- Fundamentos de JavaScript e Python
+- Conceitos básicos de SQL e bancos de dados
+
+
+💼 Perfil Profissional 
+
+- Aprimorando meus conhecimentos em programação.
+- Estudando boas práticas de desenvolvimento.
+- Aprendendo novas linguagens de programação.
+- Desenvolvendo projetos práticos.
+
+
+# 🌐 Vamos nos conectar?
+
+Estou aberta a oportunidades de entrada na área de Tecnologia da Informação e a conexões com pessoas da comunidade tech!
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sthefanyss/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sthefanysoaressantana@gmail.com)
